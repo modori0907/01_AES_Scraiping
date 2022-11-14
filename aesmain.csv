@@ -1,0 +1,8 @@
+Service,Status,State,License Mode,Cause*
+ASAI Link Manager,N/A,Running,N/A,N/A
+CVLAN Service,OFFLINE,Running,N/A,N/A
+DLG Service,OFFLINE,Running,N/A,N/A
+DMCC Service,ONLINE,Running,NORMAL MODE,N/A
+TSAPI Service,ONLINE,Running,NORMAL MODE,N/A
+Transport Layer Service,N/A,Running,N/A,N/A
+AE Services HA,Not Configured,N/A,N/A,N/A
